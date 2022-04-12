@@ -1,0 +1,38 @@
+A:\Projects\Credito Automotriz\CreditoAutomotriz.Domain\bin\Debug\net6.0\CreditoAutomotriz.Domain.deps.json
+A:\Projects\Credito Automotriz\CreditoAutomotriz.Domain\bin\Debug\net6.0\CreditoAutomotriz.Domain.dll
+A:\Projects\Credito Automotriz\CreditoAutomotriz.Domain\bin\Debug\net6.0\CreditoAutomotriz.Domain.pdb
+A:\Projects\Credito Automotriz\CreditoAutomotriz.Domain\bin\Debug\net6.0\CreditoAutomotriz.Entities.dll
+A:\Projects\Credito Automotriz\CreditoAutomotriz.Domain\bin\Debug\net6.0\CreditoAutomotriz.Entities.pdb
+A:\Projects\Credito Automotriz\CreditoAutomotriz.Domain\obj\Debug\net6.0\CreditoAutomotriz.Domain.csproj.AssemblyReference.cache
+A:\Projects\Credito Automotriz\CreditoAutomotriz.Domain\obj\Debug\net6.0\CreditoAutomotriz.Domain.GeneratedMSBuildEditorConfig.editorconfig
+A:\Projects\Credito Automotriz\CreditoAutomotriz.Domain\obj\Debug\net6.0\CreditoAutomotriz.Domain.AssemblyInfoInputs.cache
+A:\Projects\Credito Automotriz\CreditoAutomotriz.Domain\obj\Debug\net6.0\CreditoAutomotriz.Domain.AssemblyInfo.cs
+A:\Projects\Credito Automotriz\CreditoAutomotriz.Domain\obj\Debug\net6.0\CreditoAutomotriz.Domain.csproj.CoreCompileInputs.cache
+A:\Projects\Credito Automotriz\CreditoAutomotriz.Domain\obj\Debug\net6.0\CreditoAutomotriz.Domain.csproj.CopyComplete
+A:\Projects\Credito Automotriz\CreditoAutomotriz.Domain\obj\Debug\net6.0\CreditoAutomotriz.Domain.dll
+A:\Projects\Credito Automotriz\CreditoAutomotriz.Domain\obj\Debug\net6.0\refint\CreditoAutomotriz.Domain.dll
+A:\Projects\Credito Automotriz\CreditoAutomotriz.Domain\obj\Debug\net6.0\CreditoAutomotriz.Domain.pdb
+A:\Projects\Credito Automotriz\CreditoAutomotriz.Domain\obj\Debug\net6.0\ref\CreditoAutomotriz.Domain.dll
+A:\Projects\Credito Automotriz\CreditoAutomotriz.Domain\bin\Debug\net6.0\CreditoAutomotriz.Infraestructure.dll
+A:\Projects\Credito Automotriz\CreditoAutomotriz.Domain\bin\Debug\net6.0\CreditoAutomotriz.Repository.dll
+A:\Projects\Credito Automotriz\CreditoAutomotriz.Domain\bin\Debug\net6.0\CreditoAutomotriz.Repository.pdb
+A:\Projects\Credito Automotriz\CreditoAutomotriz.Domain\bin\Debug\net6.0\CreditoAutomotriz.Infraestructure.pdb
+A:\Projects\CreditoAutomotriz\CreditoAutomotriz.Domain\bin\Debug\net6.0\CreditoAutomotriz.Domain.deps.json
+A:\Projects\CreditoAutomotriz\CreditoAutomotriz.Domain\bin\Debug\net6.0\CreditoAutomotriz.Domain.dll
+A:\Projects\CreditoAutomotriz\CreditoAutomotriz.Domain\bin\Debug\net6.0\CreditoAutomotriz.Domain.pdb
+A:\Projects\CreditoAutomotriz\CreditoAutomotriz.Domain\bin\Debug\net6.0\CreditoAutomotriz.Entities.dll
+A:\Projects\CreditoAutomotriz\CreditoAutomotriz.Domain\bin\Debug\net6.0\CreditoAutomotriz.Infraestructure.dll
+A:\Projects\CreditoAutomotriz\CreditoAutomotriz.Domain\bin\Debug\net6.0\CreditoAutomotriz.Repository.dll
+A:\Projects\CreditoAutomotriz\CreditoAutomotriz.Domain\bin\Debug\net6.0\CreditoAutomotriz.Entities.pdb
+A:\Projects\CreditoAutomotriz\CreditoAutomotriz.Domain\bin\Debug\net6.0\CreditoAutomotriz.Infraestructure.pdb
+A:\Projects\CreditoAutomotriz\CreditoAutomotriz.Domain\bin\Debug\net6.0\CreditoAutomotriz.Repository.pdb
+A:\Projects\CreditoAutomotriz\CreditoAutomotriz.Domain\obj\Debug\net6.0\CreditoAutomotriz.Domain.csproj.AssemblyReference.cache
+A:\Projects\CreditoAutomotriz\CreditoAutomotriz.Domain\obj\Debug\net6.0\CreditoAutomotriz.Domain.GeneratedMSBuildEditorConfig.editorconfig
+A:\Projects\CreditoAutomotriz\CreditoAutomotriz.Domain\obj\Debug\net6.0\CreditoAutomotriz.Domain.AssemblyInfoInputs.cache
+A:\Projects\CreditoAutomotriz\CreditoAutomotriz.Domain\obj\Debug\net6.0\CreditoAutomotriz.Domain.AssemblyInfo.cs
+A:\Projects\CreditoAutomotriz\CreditoAutomotriz.Domain\obj\Debug\net6.0\CreditoAutomotriz.Domain.csproj.CoreCompileInputs.cache
+A:\Projects\CreditoAutomotriz\CreditoAutomotriz.Domain\obj\Debug\net6.0\CreditoAutomotriz.Domain.csproj.CopyComplete
+A:\Projects\CreditoAutomotriz\CreditoAutomotriz.Domain\obj\Debug\net6.0\CreditoAutomotriz.Domain.dll
+A:\Projects\CreditoAutomotriz\CreditoAutomotriz.Domain\obj\Debug\net6.0\refint\CreditoAutomotriz.Domain.dll
+A:\Projects\CreditoAutomotriz\CreditoAutomotriz.Domain\obj\Debug\net6.0\CreditoAutomotriz.Domain.pdb
+A:\Projects\CreditoAutomotriz\CreditoAutomotriz.Domain\obj\Debug\net6.0\ref\CreditoAutomotriz.Domain.dll

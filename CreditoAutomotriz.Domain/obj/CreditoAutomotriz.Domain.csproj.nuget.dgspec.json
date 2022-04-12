@@ -1,0 +1,265 @@
+{
+  "format": 1,
+  "restore": {
+    "A:\\Projects\\CreditoAutomotriz\\CreditoAutomotriz.Domain\\CreditoAutomotriz.Domain.csproj": {}
+  },
+  "projects": {
+    "A:\\Projects\\CreditoAutomotriz\\CreditoAutomotriz.Domain\\CreditoAutomotriz.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "A:\\Projects\\CreditoAutomotriz\\CreditoAutomotriz.Domain\\CreditoAutomotriz.Domain.csproj",
+        "projectName": "CreditoAutomotriz.Domain",
+        "projectPath": "A:\\Projects\\CreditoAutomotriz\\CreditoAutomotriz.Domain\\CreditoAutomotriz.Domain.csproj",
+        "packagesPath": "C:\\Users\\Jonat\\.nuget\\packages\\",
+        "outputPath": "A:\\Projects\\CreditoAutomotriz\\CreditoAutomotriz.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Jonat\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "A:\\Projects\\CreditoAutomotriz\\CreditoAutomotriz.Entities\\CreditoAutomotriz.Entities.csproj": {
+                "projectPath": "A:\\Projects\\CreditoAutomotriz\\CreditoAutomotriz.Entities\\CreditoAutomotriz.Entities.csproj"
+              },
+              "A:\\Projects\\CreditoAutomotriz\\CreditoAutomotriz.Infraestructure\\CreditoAutomotriz.Infraestructure.csproj": {
+                "projectPath": "A:\\Projects\\CreditoAutomotriz\\CreditoAutomotriz.Infraestructure\\CreditoAutomotriz.Infraestructure.csproj"
+              },
+              "A:\\Projects\\CreditoAutomotriz\\CreditoAutomotriz.Repository\\CreditoAutomotriz.Repository.csproj": {
+                "projectPath": "A:\\Projects\\CreditoAutomotriz\\CreditoAutomotriz.Repository\\CreditoAutomotriz.Repository.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "A:\\Projects\\CreditoAutomotriz\\CreditoAutomotriz.Entities\\CreditoAutomotriz.Entities.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "A:\\Projects\\CreditoAutomotriz\\CreditoAutomotriz.Entities\\CreditoAutomotriz.Entities.csproj",
+        "projectName": "CreditoAutomotriz.Entities",
+        "projectPath": "A:\\Projects\\CreditoAutomotriz\\CreditoAutomotriz.Entities\\CreditoAutomotriz.Entities.csproj",
+        "packagesPath": "C:\\Users\\Jonat\\.nuget\\packages\\",
+        "outputPath": "A:\\Projects\\CreditoAutomotriz\\CreditoAutomotriz.Entities\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Jonat\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Http.Features": {
+              "target": "Package",
+              "version": "[5.0.15, )"
+            },
+            "Microsoft.EntityFrameworkCore.Abstractions": {
+              "target": "Package",
+              "version": "[6.0.3, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "A:\\Projects\\CreditoAutomotriz\\CreditoAutomotriz.Infraestructure\\CreditoAutomotriz.Infraestructure.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "A:\\Projects\\CreditoAutomotriz\\CreditoAutomotriz.Infraestructure\\CreditoAutomotriz.Infraestructure.csproj",
+        "projectName": "CreditoAutomotriz.Infraestructure",
+        "projectPath": "A:\\Projects\\CreditoAutomotriz\\CreditoAutomotriz.Infraestructure\\CreditoAutomotriz.Infraestructure.csproj",
+        "packagesPath": "C:\\Users\\Jonat\\.nuget\\packages\\",
+        "outputPath": "A:\\Projects\\CreditoAutomotriz\\CreditoAutomotriz.Infraestructure\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Jonat\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "A:\\Projects\\CreditoAutomotriz\\CreditoAutomotriz.Entities\\CreditoAutomotriz.Entities.csproj": {
+                "projectPath": "A:\\Projects\\CreditoAutomotriz\\CreditoAutomotriz.Entities\\CreditoAutomotriz.Entities.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[6.0.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "A:\\Projects\\CreditoAutomotriz\\CreditoAutomotriz.Repository\\CreditoAutomotriz.Repository.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "A:\\Projects\\CreditoAutomotriz\\CreditoAutomotriz.Repository\\CreditoAutomotriz.Repository.csproj",
+        "projectName": "CreditoAutomotriz.Repository",
+        "projectPath": "A:\\Projects\\CreditoAutomotriz\\CreditoAutomotriz.Repository\\CreditoAutomotriz.Repository.csproj",
+        "packagesPath": "C:\\Users\\Jonat\\.nuget\\packages\\",
+        "outputPath": "A:\\Projects\\CreditoAutomotriz\\CreditoAutomotriz.Repository\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Jonat\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "A:\\Projects\\CreditoAutomotriz\\CreditoAutomotriz.Entities\\CreditoAutomotriz.Entities.csproj": {
+                "projectPath": "A:\\Projects\\CreditoAutomotriz\\CreditoAutomotriz.Entities\\CreditoAutomotriz.Entities.csproj"
+              },
+              "A:\\Projects\\CreditoAutomotriz\\CreditoAutomotriz.Infraestructure\\CreditoAutomotriz.Infraestructure.csproj": {
+                "projectPath": "A:\\Projects\\CreditoAutomotriz\\CreditoAutomotriz.Infraestructure\\CreditoAutomotriz.Infraestructure.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

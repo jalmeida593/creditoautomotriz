@@ -1,0 +1,30 @@
+A:\Projects\Credito Automotriz\CreditoAutomotriz.Infraestructure\bin\Debug\net6.0\CreditoAutomotriz.Infraestructure.deps.json
+A:\Projects\Credito Automotriz\CreditoAutomotriz.Infraestructure\bin\Debug\net6.0\CreditoAutomotriz.Infraestructure.dll
+A:\Projects\Credito Automotriz\CreditoAutomotriz.Infraestructure\bin\Debug\net6.0\CreditoAutomotriz.Infraestructure.pdb
+A:\Projects\Credito Automotriz\CreditoAutomotriz.Infraestructure\bin\Debug\net6.0\CreditoAutomotriz.Entities.dll
+A:\Projects\Credito Automotriz\CreditoAutomotriz.Infraestructure\bin\Debug\net6.0\CreditoAutomotriz.Entities.pdb
+A:\Projects\Credito Automotriz\CreditoAutomotriz.Infraestructure\obj\Debug\net6.0\CreditoAutomotriz.Infraestructure.csproj.AssemblyReference.cache
+A:\Projects\Credito Automotriz\CreditoAutomotriz.Infraestructure\obj\Debug\net6.0\CreditoAutomotriz.Infraestructure.GeneratedMSBuildEditorConfig.editorconfig
+A:\Projects\Credito Automotriz\CreditoAutomotriz.Infraestructure\obj\Debug\net6.0\CreditoAutomotriz.Infraestructure.AssemblyInfoInputs.cache
+A:\Projects\Credito Automotriz\CreditoAutomotriz.Infraestructure\obj\Debug\net6.0\CreditoAutomotriz.Infraestructure.AssemblyInfo.cs
+A:\Projects\Credito Automotriz\CreditoAutomotriz.Infraestructure\obj\Debug\net6.0\CreditoAutomotriz.Infraestructure.csproj.CoreCompileInputs.cache
+A:\Projects\Credito Automotriz\CreditoAutomotriz.Infraestructure\obj\Debug\net6.0\CreditoAutomotriz.Infraestructure.csproj.CopyComplete
+A:\Projects\Credito Automotriz\CreditoAutomotriz.Infraestructure\obj\Debug\net6.0\CreditoAutomotriz.Infraestructure.dll
+A:\Projects\Credito Automotriz\CreditoAutomotriz.Infraestructure\obj\Debug\net6.0\refint\CreditoAutomotriz.Infraestructure.dll
+A:\Projects\Credito Automotriz\CreditoAutomotriz.Infraestructure\obj\Debug\net6.0\CreditoAutomotriz.Infraestructure.pdb
+A:\Projects\Credito Automotriz\CreditoAutomotriz.Infraestructure\obj\Debug\net6.0\ref\CreditoAutomotriz.Infraestructure.dll
+A:\Projects\CreditoAutomotriz\CreditoAutomotriz.Infraestructure\bin\Debug\net6.0\CreditoAutomotriz.Infraestructure.deps.json
+A:\Projects\CreditoAutomotriz\CreditoAutomotriz.Infraestructure\bin\Debug\net6.0\CreditoAutomotriz.Infraestructure.dll
+A:\Projects\CreditoAutomotriz\CreditoAutomotriz.Infraestructure\bin\Debug\net6.0\CreditoAutomotriz.Infraestructure.pdb
+A:\Projects\CreditoAutomotriz\CreditoAutomotriz.Infraestructure\bin\Debug\net6.0\CreditoAutomotriz.Entities.dll
+A:\Projects\CreditoAutomotriz\CreditoAutomotriz.Infraestructure\bin\Debug\net6.0\CreditoAutomotriz.Entities.pdb
+A:\Projects\CreditoAutomotriz\CreditoAutomotriz.Infraestructure\obj\Debug\net6.0\CreditoAutomotriz.Infraestructure.csproj.AssemblyReference.cache
+A:\Projects\CreditoAutomotriz\CreditoAutomotriz.Infraestructure\obj\Debug\net6.0\CreditoAutomotriz.Infraestructure.GeneratedMSBuildEditorConfig.editorconfig
+A:\Projects\CreditoAutomotriz\CreditoAutomotriz.Infraestructure\obj\Debug\net6.0\CreditoAutomotriz.Infraestructure.AssemblyInfoInputs.cache
+A:\Projects\CreditoAutomotriz\CreditoAutomotriz.Infraestructure\obj\Debug\net6.0\CreditoAutomotriz.Infraestructure.AssemblyInfo.cs
+A:\Projects\CreditoAutomotriz\CreditoAutomotriz.Infraestructure\obj\Debug\net6.0\CreditoAutomotriz.Infraestructure.csproj.CoreCompileInputs.cache
+A:\Projects\CreditoAutomotriz\CreditoAutomotriz.Infraestructure\obj\Debug\net6.0\CreditoAutomotriz.Infraestructure.csproj.CopyComplete
+A:\Projects\CreditoAutomotriz\CreditoAutomotriz.Infraestructure\obj\Debug\net6.0\CreditoAutomotriz.Infraestructure.dll
+A:\Projects\CreditoAutomotriz\CreditoAutomotriz.Infraestructure\obj\Debug\net6.0\refint\CreditoAutomotriz.Infraestructure.dll
+A:\Projects\CreditoAutomotriz\CreditoAutomotriz.Infraestructure\obj\Debug\net6.0\CreditoAutomotriz.Infraestructure.pdb
+A:\Projects\CreditoAutomotriz\CreditoAutomotriz.Infraestructure\obj\Debug\net6.0\ref\CreditoAutomotriz.Infraestructure.dll

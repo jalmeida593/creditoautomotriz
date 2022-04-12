@@ -1,0 +1,199 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>CreditoAutomotriz.API</name>
+    </assembly>
+    <members>
+        <member name="T:Credito_Automotriz.Controllers.AdministracionClientesController">
+            <summary>
+            Controlador para la Administracion Clientes.
+            </summary>
+        </member>
+        <member name="M:Credito_Automotriz.Controllers.AdministracionClientesController.buscarporId(System.Int32)">
+            <summary>
+            Servicio para buscar Cliente por Id
+            </summary>
+            <param name="idCliente"> id del Cliente</param>
+            <returns></returns>
+        </member>
+        <member name="M:Credito_Automotriz.Controllers.AdministracionClientesController.buscarClientes">
+            <summary>
+            Servicio para todos los clientes 
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:Credito_Automotriz.Controllers.AdministracionClientesController.ingresarCliente(CreditoAutomotriz.Entities.Models.UserCreateModel)">
+            <summary>
+            Creacion de un Cliente
+            </summary>
+            <returns>
+            HttpResponseMessage
+            </returns>
+            <response code="200">Success </response>
+            <response code="500">Internal Server Error</response>
+        </member>
+        <member name="M:Credito_Automotriz.Controllers.AdministracionClientesController.ActualizarCliente(CreditoAutomotriz.Entities.Models.UserCreateModel)">
+            <summary>
+            Actualización de un Cliente
+            </summary>
+            <returns>
+            HttpResponseMessage
+            </returns>
+            <response code="200">Success </response>
+            <response code="500">Internal Server Error</response>
+        </member>
+        <member name="M:Credito_Automotriz.Controllers.AdministracionClientesController.eliminarporId(System.Int32)">
+            <summary>
+            Servicio para eliminar un Cliente por Id
+            </summary>
+            <param name="idCliente"> id del Cliente</param>
+            <returns></returns>
+        </member>
+        <member name="T:Credito_Automotriz.Controllers.AdministracionPatioAutosController">
+            <summary>
+            Controlador para la Administracion Patios de Autos.
+            </summary>
+        </member>
+        <member name="M:Credito_Automotriz.Controllers.AdministracionPatioAutosController.buscarporId(System.Int32)">
+            <summary>
+            Servicio para buscar Patio por Id
+            </summary>
+            <param name="idPatio"> id del Patio</param>
+            <returns></returns>
+        </member>
+        <member name="M:Credito_Automotriz.Controllers.AdministracionPatioAutosController.buscarPatios">
+            <summary>
+            Servicio para todos los Patios 
+            </summary>
+            <returns></returns>
+            
+        </member>
+        <member name="M:Credito_Automotriz.Controllers.AdministracionPatioAutosController.ingresarPatio(CreditoAutomotriz.Entities.Models.PatioCreateModel)">
+            <summary>
+            Creacion de un Patio
+            </summary>
+            <returns>
+            HttpResponseMessage
+            </returns>
+            <response code="200">Success </response>
+            <response code="500">Internal Server Error</response>
+        </member>
+        <member name="M:Credito_Automotriz.Controllers.AdministracionPatioAutosController.ActualizarPatio(CreditoAutomotriz.Entities.Models.PatioCreateModel)">
+            <summary>
+            Actualización de un Patio
+            </summary>
+            <returns>
+            HttpResponseMessage
+            </returns>
+            <response code="200">Success </response>
+            <response code="500">Internal Server Error</response>
+        </member>
+        <member name="M:Credito_Automotriz.Controllers.AdministracionPatioAutosController.eliminarporId(System.Int32)">
+            <summary>
+            Servicio para eliminar un Patio por Id
+            </summary>
+            <param name="idPatio"> id del Patio</param>
+            <returns></returns>
+        </member>
+        <member name="T:Credito_Automotriz.Controllers.AdministracionVehiculosController">
+            <summary>
+            Controlador para la Administracion Vehiculos.
+            </summary>
+        </member>
+        <member name="M:Credito_Automotriz.Controllers.AdministracionVehiculosController.buscarporId(System.Int32)">
+            <summary>
+            Servicio para buscar Vehiculo por Id
+            </summary>
+            <param name="idVehiculo"> id del Vehiculo</param>
+            <returns></returns>
+        </member>
+        <member name="M:Credito_Automotriz.Controllers.AdministracionVehiculosController.buscarVehiculos">
+            <summary>
+            Servicio para todos los Vehiculos 
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:Credito_Automotriz.Controllers.AdministracionVehiculosController.ingresarVehiculo(CreditoAutomotriz.Entities.Models.VehiculoCreateModel)">
+            <summary>
+            Creacion de un Vehiculo
+            </summary>
+            <returns>
+            HttpResponseMessage
+            </returns>
+            <response code="200">Success </response>
+            <response code="500">Internal Server Error</response>
+        </member>
+        <member name="M:Credito_Automotriz.Controllers.AdministracionVehiculosController.ActualizarVehiculo(CreditoAutomotriz.Entities.Models.VehiculoCreateModel)">
+            <summary>
+            Actualización de un Vehiculo
+            </summary>
+            <returns>
+            HttpResponseMessage
+            </returns>
+            <response code="200">Success </response>
+            <response code="500">Internal Server Error</response>
+        </member>
+        <member name="M:Credito_Automotriz.Controllers.AdministracionVehiculosController.eliminarporId(System.Int32)">
+            <summary>
+            Servicio para eliminar un Vehiculo por Id
+            </summary>
+            <param name="idVehiculo"> id del Vehiculo</param>
+            <returns></returns>
+        </member>
+        <member name="M:Credito_Automotriz.Controllers.AsignacionClientesController.ingresarAsignacionCliente(CreditoAutomotriz.Entities.Models.AsignacionClienteModel)">
+            <summary>
+            Asignación de un Cliente a un Patio
+            </summary>
+            <returns>
+            HttpResponseMessage
+            </returns>
+            <response code="200">Success </response>
+            <response code="500">Internal Server Error</response>
+        </member>
+        <member name="T:Credito_Automotriz.Controllers.CargaClientesController">
+            <summary>
+            Controlador para la carga Clientes.
+            </summary>
+        </member>
+        <member name="M:Credito_Automotriz.Controllers.CargaClientesController.guardarDocs(Microsoft.AspNetCore.Http.IFormFile)">
+            <summary>
+            Cargar archivo a una ruta en específico
+            </summary>
+            <returns>
+            HttpResponseMessage
+            </returns>
+            <response code="200">Success </response>
+            <response code="500">Internal Server Error</response>
+        </member>
+        <member name="T:Credito_Automotriz.Controllers.CargaEjecutivosController">
+            <summary>
+            Controlador para la carga Clientes.
+            </summary>
+        </member>
+        <member name="M:Credito_Automotriz.Controllers.CargaEjecutivosController.guardarDocs(Microsoft.AspNetCore.Http.IFormFile)">
+            <summary>
+            Cargar archivo a una ruta en específico
+            </summary>
+            <returns>
+            HttpResponseMessage
+            </returns>
+            <response code="200">Success </response>
+            <response code="500">Internal Server Error</response>
+        </member>
+        <member name="T:Credito_Automotriz.Controllers.CargaMarcasController">
+            <summary>
+            Controlador para Marcas.
+            </summary>
+        </member>
+        <member name="M:Credito_Automotriz.Controllers.CargaMarcasController.guardarDocsMarca(Microsoft.AspNetCore.Http.IFormFile)">
+            <summary>
+            Cargar archivo de marcas a una ruta en específico
+            </summary>
+            <returns>
+            HttpResponseMessage
+            </returns>
+            <response code="200">Success </response>
+            <response code="500">Internal Server Error</response>
+        </member>
+    </members>
+</doc>

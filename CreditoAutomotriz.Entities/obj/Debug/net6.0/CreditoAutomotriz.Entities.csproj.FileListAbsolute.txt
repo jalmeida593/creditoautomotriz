@@ -1,0 +1,24 @@
+A:\Projects\Credito Automotriz\CreditoAutomotriz.Entities\bin\Debug\net6.0\CreditoAutomotriz.Entities.deps.json
+A:\Projects\Credito Automotriz\CreditoAutomotriz.Entities\bin\Debug\net6.0\CreditoAutomotriz.Entities.dll
+A:\Projects\Credito Automotriz\CreditoAutomotriz.Entities\bin\Debug\net6.0\CreditoAutomotriz.Entities.pdb
+A:\Projects\Credito Automotriz\CreditoAutomotriz.Entities\obj\Debug\net6.0\CreditoAutomotriz.Entities.csproj.AssemblyReference.cache
+A:\Projects\Credito Automotriz\CreditoAutomotriz.Entities\obj\Debug\net6.0\CreditoAutomotriz.Entities.GeneratedMSBuildEditorConfig.editorconfig
+A:\Projects\Credito Automotriz\CreditoAutomotriz.Entities\obj\Debug\net6.0\CreditoAutomotriz.Entities.AssemblyInfoInputs.cache
+A:\Projects\Credito Automotriz\CreditoAutomotriz.Entities\obj\Debug\net6.0\CreditoAutomotriz.Entities.AssemblyInfo.cs
+A:\Projects\Credito Automotriz\CreditoAutomotriz.Entities\obj\Debug\net6.0\CreditoAutomotriz.Entities.csproj.CoreCompileInputs.cache
+A:\Projects\Credito Automotriz\CreditoAutomotriz.Entities\obj\Debug\net6.0\CreditoAutomotriz.Entities.dll
+A:\Projects\Credito Automotriz\CreditoAutomotriz.Entities\obj\Debug\net6.0\refint\CreditoAutomotriz.Entities.dll
+A:\Projects\Credito Automotriz\CreditoAutomotriz.Entities\obj\Debug\net6.0\CreditoAutomotriz.Entities.pdb
+A:\Projects\Credito Automotriz\CreditoAutomotriz.Entities\obj\Debug\net6.0\ref\CreditoAutomotriz.Entities.dll
+A:\Projects\CreditoAutomotriz\CreditoAutomotriz.Entities\bin\Debug\net6.0\CreditoAutomotriz.Entities.deps.json
+A:\Projects\CreditoAutomotriz\CreditoAutomotriz.Entities\bin\Debug\net6.0\CreditoAutomotriz.Entities.dll
+A:\Projects\CreditoAutomotriz\CreditoAutomotriz.Entities\bin\Debug\net6.0\CreditoAutomotriz.Entities.pdb
+A:\Projects\CreditoAutomotriz\CreditoAutomotriz.Entities\obj\Debug\net6.0\CreditoAutomotriz.Entities.csproj.AssemblyReference.cache
+A:\Projects\CreditoAutomotriz\CreditoAutomotriz.Entities\obj\Debug\net6.0\CreditoAutomotriz.Entities.GeneratedMSBuildEditorConfig.editorconfig
+A:\Projects\CreditoAutomotriz\CreditoAutomotriz.Entities\obj\Debug\net6.0\CreditoAutomotriz.Entities.AssemblyInfoInputs.cache
+A:\Projects\CreditoAutomotriz\CreditoAutomotriz.Entities\obj\Debug\net6.0\CreditoAutomotriz.Entities.AssemblyInfo.cs
+A:\Projects\CreditoAutomotriz\CreditoAutomotriz.Entities\obj\Debug\net6.0\CreditoAutomotriz.Entities.csproj.CoreCompileInputs.cache
+A:\Projects\CreditoAutomotriz\CreditoAutomotriz.Entities\obj\Debug\net6.0\CreditoAutomotriz.Entities.dll
+A:\Projects\CreditoAutomotriz\CreditoAutomotriz.Entities\obj\Debug\net6.0\refint\CreditoAutomotriz.Entities.dll
+A:\Projects\CreditoAutomotriz\CreditoAutomotriz.Entities\obj\Debug\net6.0\CreditoAutomotriz.Entities.pdb
+A:\Projects\CreditoAutomotriz\CreditoAutomotriz.Entities\obj\Debug\net6.0\ref\CreditoAutomotriz.Entities.dll

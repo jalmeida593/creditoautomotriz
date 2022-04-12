@@ -1,0 +1,34 @@
+A:\Projects\Credito Automotriz\CreditoAutomotriz.Repository\bin\Debug\net6.0\CreditoAutomotriz.Repository.deps.json
+A:\Projects\Credito Automotriz\CreditoAutomotriz.Repository\bin\Debug\net6.0\CreditoAutomotriz.Repository.dll
+A:\Projects\Credito Automotriz\CreditoAutomotriz.Repository\bin\Debug\net6.0\CreditoAutomotriz.Repository.pdb
+A:\Projects\Credito Automotriz\CreditoAutomotriz.Repository\bin\Debug\net6.0\CreditoAutomotriz.Entities.dll
+A:\Projects\Credito Automotriz\CreditoAutomotriz.Repository\bin\Debug\net6.0\CreditoAutomotriz.Entities.pdb
+A:\Projects\Credito Automotriz\CreditoAutomotriz.Repository\obj\Debug\net6.0\CreditoAutomotriz.Repository.csproj.AssemblyReference.cache
+A:\Projects\Credito Automotriz\CreditoAutomotriz.Repository\obj\Debug\net6.0\CreditoAutomotriz.Repository.GeneratedMSBuildEditorConfig.editorconfig
+A:\Projects\Credito Automotriz\CreditoAutomotriz.Repository\obj\Debug\net6.0\CreditoAutomotriz.Repository.AssemblyInfoInputs.cache
+A:\Projects\Credito Automotriz\CreditoAutomotriz.Repository\obj\Debug\net6.0\CreditoAutomotriz.Repository.AssemblyInfo.cs
+A:\Projects\Credito Automotriz\CreditoAutomotriz.Repository\obj\Debug\net6.0\CreditoAutomotriz.Repository.csproj.CoreCompileInputs.cache
+A:\Projects\Credito Automotriz\CreditoAutomotriz.Repository\obj\Debug\net6.0\CreditoAutomotriz.Repository.csproj.CopyComplete
+A:\Projects\Credito Automotriz\CreditoAutomotriz.Repository\obj\Debug\net6.0\CreditoAutomotriz.Repository.dll
+A:\Projects\Credito Automotriz\CreditoAutomotriz.Repository\obj\Debug\net6.0\refint\CreditoAutomotriz.Repository.dll
+A:\Projects\Credito Automotriz\CreditoAutomotriz.Repository\obj\Debug\net6.0\CreditoAutomotriz.Repository.pdb
+A:\Projects\Credito Automotriz\CreditoAutomotriz.Repository\obj\Debug\net6.0\ref\CreditoAutomotriz.Repository.dll
+A:\Projects\Credito Automotriz\CreditoAutomotriz.Repository\bin\Debug\net6.0\CreditoAutomotriz.Infraestructure.dll
+A:\Projects\Credito Automotriz\CreditoAutomotriz.Repository\bin\Debug\net6.0\CreditoAutomotriz.Infraestructure.pdb
+A:\Projects\CreditoAutomotriz\CreditoAutomotriz.Repository\bin\Debug\net6.0\CreditoAutomotriz.Repository.deps.json
+A:\Projects\CreditoAutomotriz\CreditoAutomotriz.Repository\bin\Debug\net6.0\CreditoAutomotriz.Repository.dll
+A:\Projects\CreditoAutomotriz\CreditoAutomotriz.Repository\bin\Debug\net6.0\CreditoAutomotriz.Repository.pdb
+A:\Projects\CreditoAutomotriz\CreditoAutomotriz.Repository\bin\Debug\net6.0\CreditoAutomotriz.Entities.dll
+A:\Projects\CreditoAutomotriz\CreditoAutomotriz.Repository\bin\Debug\net6.0\CreditoAutomotriz.Infraestructure.dll
+A:\Projects\CreditoAutomotriz\CreditoAutomotriz.Repository\bin\Debug\net6.0\CreditoAutomotriz.Entities.pdb
+A:\Projects\CreditoAutomotriz\CreditoAutomotriz.Repository\bin\Debug\net6.0\CreditoAutomotriz.Infraestructure.pdb
+A:\Projects\CreditoAutomotriz\CreditoAutomotriz.Repository\obj\Debug\net6.0\CreditoAutomotriz.Repository.csproj.AssemblyReference.cache
+A:\Projects\CreditoAutomotriz\CreditoAutomotriz.Repository\obj\Debug\net6.0\CreditoAutomotriz.Repository.GeneratedMSBuildEditorConfig.editorconfig
+A:\Projects\CreditoAutomotriz\CreditoAutomotriz.Repository\obj\Debug\net6.0\CreditoAutomotriz.Repository.AssemblyInfoInputs.cache
+A:\Projects\CreditoAutomotriz\CreditoAutomotriz.Repository\obj\Debug\net6.0\CreditoAutomotriz.Repository.AssemblyInfo.cs
+A:\Projects\CreditoAutomotriz\CreditoAutomotriz.Repository\obj\Debug\net6.0\CreditoAutomotriz.Repository.csproj.CoreCompileInputs.cache
+A:\Projects\CreditoAutomotriz\CreditoAutomotriz.Repository\obj\Debug\net6.0\CreditoAutomotriz.Repository.csproj.CopyComplete
+A:\Projects\CreditoAutomotriz\CreditoAutomotriz.Repository\obj\Debug\net6.0\CreditoAutomotriz.Repository.dll
+A:\Projects\CreditoAutomotriz\CreditoAutomotriz.Repository\obj\Debug\net6.0\refint\CreditoAutomotriz.Repository.dll
+A:\Projects\CreditoAutomotriz\CreditoAutomotriz.Repository\obj\Debug\net6.0\CreditoAutomotriz.Repository.pdb
+A:\Projects\CreditoAutomotriz\CreditoAutomotriz.Repository\obj\Debug\net6.0\ref\CreditoAutomotriz.Repository.dll

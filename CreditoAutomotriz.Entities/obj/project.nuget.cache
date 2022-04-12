@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "um54Gtyz3NcKwynV/Zyl7bteKzXO6Sny2NnuMljfWkBw44zg98Y0p2LWQc+2jQxr2QcATL74R8ZkJ2nMxgAJSQ==",
+  "success": true,
+  "projectFilePath": "A:\\Projects\\CreditoAutomotriz\\CreditoAutomotriz.Entities\\CreditoAutomotriz.Entities.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Jonat\\.nuget\\packages\\microsoft.aspnetcore.http.features\\5.0.15\\microsoft.aspnetcore.http.features.5.0.15.nupkg.sha512",
+    "C:\\Users\\Jonat\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\6.0.3\\microsoft.entityframeworkcore.abstractions.6.0.3.nupkg.sha512",
+    "C:\\Users\\Jonat\\.nuget\\packages\\microsoft.extensions.primitives\\5.0.1\\microsoft.extensions.primitives.5.0.1.nupkg.sha512",
+    "C:\\Users\\Jonat\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\Jonat\\.nuget\\packages\\system.io.pipelines\\5.0.2\\system.io.pipelines.5.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
