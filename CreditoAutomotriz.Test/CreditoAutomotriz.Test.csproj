@@ -7,7 +7,6 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\clientesTest\clientesTest.csproj" />
     <ProjectReference Include="..\CreditoAutomotriz.API\CreditoAutomotriz.API.csproj" />
     <ProjectReference Include="..\CreditoAutomotriz\CreditoAutomotriz.API.csproj" />
   </ItemGroup>

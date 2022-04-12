@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio Version 16
-VisualStudioVersion = 16.0.30907.101
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32407.343
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CreditoAutomotriz.Domain", "CreditoAutomotriz.Domain\CreditoAutomotriz.Domain.csproj", "{759BAED6-8287-4C58-8346-79D2465C983C}"
 EndProject
@@ -13,9 +13,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CreditoAutomotriz.Repositor
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CreditoAutomotriz.Test", "CreditoAutomotriz.Test\CreditoAutomotriz.Test.csproj", "{F2591372-9945-4699-B3E2-537C354636A9}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "clientesTest", "clientesTest\clientesTest.csproj", "{5BFEFB80-6ED0-4F0C-8803-C0FDD88C0507}"
-EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CreditoAutomotriz.API", "CreditoAutomotriz.API\CreditoAutomotriz.API.csproj", "{3C833C2F-A870-471E-B847-32438C1FB49E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CreditoAutomotriz.XUnitTest", "CreditoAutomotriz.XUnitTest\CreditoAutomotriz.XUnitTest.csproj", "{12E309BC-8B43-483F-88BF-77E8B4E89A97}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -43,14 +43,14 @@ Global
 		{F2591372-9945-4699-B3E2-537C354636A9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F2591372-9945-4699-B3E2-537C354636A9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F2591372-9945-4699-B3E2-537C354636A9}.Release|Any CPU.Build.0 = Release|Any CPU
-		{5BFEFB80-6ED0-4F0C-8803-C0FDD88C0507}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{5BFEFB80-6ED0-4F0C-8803-C0FDD88C0507}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{5BFEFB80-6ED0-4F0C-8803-C0FDD88C0507}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{5BFEFB80-6ED0-4F0C-8803-C0FDD88C0507}.Release|Any CPU.Build.0 = Release|Any CPU
 		{3C833C2F-A870-471E-B847-32438C1FB49E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{3C833C2F-A870-471E-B847-32438C1FB49E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3C833C2F-A870-471E-B847-32438C1FB49E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3C833C2F-A870-471E-B847-32438C1FB49E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{12E309BC-8B43-483F-88BF-77E8B4E89A97}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{12E309BC-8B43-483F-88BF-77E8B4E89A97}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{12E309BC-8B43-483F-88BF-77E8B4E89A97}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{12E309BC-8B43-483F-88BF-77E8B4E89A97}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
